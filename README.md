@@ -17,3 +17,10 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - 주소정보의 표현
   - TCP, UDP에 관한 이해
   - TCP Server, Client code 이해
+
+## Day 4
+  - UDP Server, Client code 이해
+
+## Day 5
+  - Socket 
+  - Domain, Ip Address

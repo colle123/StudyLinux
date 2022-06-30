@@ -1,0 +1,2 @@
+﻿  op_server_win.c
+D:\Sources\StudyLinux\Day3\Day3\op_server_win.c(47,27): warning C4133: '함수': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.

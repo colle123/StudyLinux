@@ -40,3 +40,6 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - Multitasking 기반 Multiple access Server 구현
   - Pipe 기반의 Process간 통신 이해
   - Message를 저장하는 형태의 Echo server 구현
+
+## Day 7
+  - Multi Process의 장/단점 => Mulitplexing

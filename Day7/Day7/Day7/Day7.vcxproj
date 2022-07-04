@@ -139,13 +139,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="desto.c" />
     <ClCompile Include="echo_client.c" />
     <ClCompile Include="echo_selectserv.c" />
+    <ClCompile Include="news_receiver.c" />
+    <ClCompile Include="news_receiver_brd.c" />
+    <ClCompile Include="news_sender.c" />
+    <ClCompile Include="news_sender_brd.c" />
     <ClCompile Include="oob_recv.c" />
     <ClCompile Include="oob_send.c" />
     <ClCompile Include="peek_recv.c" />
     <ClCompile Include="peek_send.c" />
     <ClCompile Include="select.c" />
+    <ClCompile Include="stdcpy.c" />
+    <ClCompile Include="syscpy.c" />
+    <ClCompile Include="todes.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

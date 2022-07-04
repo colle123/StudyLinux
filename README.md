@@ -42,4 +42,7 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - Message를 저장하는 형태의 Echo server 구현
 
 ## Day 7
-  - Multi Process의 장/단점 => Mulitplexing
+  - Multi Process의 단점 => 많은 양의 연산, 메모리 공간 큼, 복잡한 방법
+  - Multiplexing의 개념과 원리
+  - Select() 함수의 이해와 서버의 구현
+  - send & recv 입출력 함수

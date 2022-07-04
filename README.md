@@ -47,4 +47,4 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - Select() 함수의 이해와 서버의 구현
   - send & recv 입/출력 함수, readv & writev 입/출력함수
   - MSG_OOB(긴급메세지, Urgent mode), MSG_PEEK/MSG_DONTWAIT(입력버퍼 검사)
-  - Multicast(Routing, Time to Live(TTL), BroadCast(Direct, Local) 
+  - Multicast(Routing, Time to Live(TTL)), BroadCast(Direct, Local) 

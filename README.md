@@ -48,3 +48,7 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - send & recv 입/출력 함수, readv & writev 입/출력함수
   - MSG_OOB(긴급메세지, Urgent mode), MSG_PEEK/MSG_DONTWAIT(입력버퍼 검사)
   - Multicast(Routing, Time to Live(TTL)), BroadCast(Direct, Local) 
+  - Socket과 표준 입/출력함수
+  - 표준 입/출력함수 단점 => 1. 양방향 통신 어려움, 2. 때에 따라 빈번한 fflush함수, 3. fd를 FILE 구조체의 포인터로 변환
+  
+## Day 8

@@ -36,28 +36,28 @@
     <ClCompile Include="select.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="desto.c">
+    <ClCompile Include="desto1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="news_receiver.c">
+    <ClCompile Include="news_receiver_brd1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="news_receiver_brd.c">
+    <ClCompile Include="news_receiver1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="news_sender.c">
+    <ClCompile Include="news_sender_brd1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="news_sender_brd.c">
+    <ClCompile Include="news_sender1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stdcpy.c">
+    <ClCompile Include="stdcpy1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="syscpy.c">
+    <ClCompile Include="syscpy1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="todes.c">
+    <ClCompile Include="todes1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

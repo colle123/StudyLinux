@@ -59,4 +59,4 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - select() 함수의 단점 => IO Multiplexing이 상대적으로 느림 => epoll() 함수 사용
   - epoll() 함수의 이해와 활용 => epoll_create(), epoll_ctl(), epoll_wait() 함수
   - 레벨 트리거(Level Trigger)와 엣지 트리거(Edge Trigger)의 특성파악, 활용
-  - Trigger 기반의 Echo 
+  - Trigger 기반의 Echo server 구현

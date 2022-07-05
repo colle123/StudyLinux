@@ -52,3 +52,11 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - 표준 입/출력함수 단점 => 1. 양방향 통신 어려움, 2. 때에 따라 빈번한 fflush함수, 3. fd를 FILE 구조체의 포인터로 변환
   
 ## Day 8
+  - 표준 입/출력함수 사용 => fdopen(), fileno() 함수
+  - Socket 기반에서의 표준 입/출력 함수 사용
+  - 입력 스트림과 출력 스트림의 분리 => File 포인터의 Read/Write 분리로 인한 편의성 증대, 버퍼링 기능 향상
+  - FD(File Descriptor) 복사와 Half-close
+  - select() 함수의 단점 => IO Multiplexing이 상대적으로 느림 => epoll() 함수 사용
+  - epoll() 함수의 이해와 활용 => epoll_create(), epoll_ctl(), epoll_wait() 함수
+  - 레벨 트리거(Level Trigger)와 엣지 트리거(Edge Trigger)의 특성파악, 활용
+  - Trigger 기반의 Echo 

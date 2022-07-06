@@ -62,4 +62,12 @@ Linux, Tcp/ip 학습을 위한 리포지토리
   - Trigger 기반의 Echo server 구현
 
 ## Day 9
-  -
+  - Mulit thread 기반의 Server 구현
+  - Context Switching(컨텍스트 스위칭)
+  - Thread의 장점 => 프로세스의 생성 및 컨텍스트 스위칭보다 빠르고, 데이터 교환시 특별한 기법 사용 x(한 프로세스 안에서 스택영역만 분리)
+  - Thread의 문제점과 Criticla Section(임계영역) => 하나의 전역변수에 두 개이상의 Thread가 동시접근 해 원하는 값이 안나옴.
+  - Thread의 문제점(동일한 메모리 영역 동시접근 또는 실행순서를 지정해야 할 때)의 해결 => Mutex(Mutual Exclusion), Semaphore
+  - Http Server Mini project 진행
+  
+## Day 10
+  - Http Server Mini project 
